@@ -15,9 +15,9 @@ New Features:
 - As soon as the song is finished the new song starts directly
 
 
-=======================================
+
         PLAYLIST VERS. 2.8
-=======================================
+
 
 - Add Five new Songs
 
