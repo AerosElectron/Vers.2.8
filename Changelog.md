@@ -1,42 +1,36 @@
-Version 3.5.1
+#Changelog for Version 2.8
 
 
-- Windows10 UltraLite Edition Vers. 1.5 released 
+- Bug Fixed:
 
-​
+- Fixed bug with previous and next song button
 
-- Windows11 UltraLite Edition Vers. 1.5 released
 
-​​
+New Features:
 
-- Windows 11 Gaming Edition Vers.3.3 released 
+- new Playlist Downloader (Downloads the Playlist from the Server
 
-​
+- On and Off Buttons for starting at Windows Startup and turning off at Windows Startup
 
-- Aeros Updater updated to Version 3.2 [dev]
+- As soon as the song is finished the new song starts directly
 
-​
 
-- Aeros Updater lite updated to Version 2.5
+=======================================
+        PLAYLIST VERS. 2.8
+=======================================
 
-​
+- Add Five new Songs
 
-- Aeros Welcome updated to Version 1.5
+Songs:
 
-​
+1. Breathe, Yeat
 
-- Add new App (Ghost Theme) to Windows 10 Gaming Edition
+2. Planet Ponders, DillanPonders
 
-​
+3. MOJO JOJO, Playboi Carti
 
-- Add new App (Aeros Downloader)
+4. Maneater, Nelly Furtado
 
-​​
-
-- UltraLite Features updated to Version 3.5
-
-​
-
-- Aeros Bootlogo with HackBGRT updated to 2.5.2
+5. THIEF IN THE NIGHT, Kelvin Krash, COUCOU CHLOE
 
 ​
